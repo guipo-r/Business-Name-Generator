@@ -1,18 +1,16 @@
-#1. Create a greeting for your program.
+#1. Create a greeting
 print('Hey there! Welcome!')
-#2. Ask the user for the city that they grew up in.
+#2. Ask the user for their grandmother's name.
 
-city = input('In what city did you grow up?\n')
+granny = input("What was your grandmother's name?\n")
 
-#3. Ask the user for the name of a pet.
+#3. Ask the user for the type of business.
 
-pet = input('What is or was the name of your pet?\n')
+business_type = input('What is or was the name of your pet?\n')
 
-#4. Combine the name of their city and pet and show them their band name.
+#4. Combine the name of their grannyy and business type and show them their new business name.
 
-print('You might want to name your band as:\n'
-     + city + ' ' + pet)
+print('You might want to name your surely successful business as:\n'
+     "Ol'"+ granny + "'s " + business_type)
 
-#5. Make sure the input cursor shows on a new line:
-
-# Solution: https://replit.com/@appbrewery/band-name-generator-end
+print('Good luck at your new business! Now go get rich!')
