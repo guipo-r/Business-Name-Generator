@@ -6,7 +6,7 @@ granny = input("What was your grandmother's name?\n")
 
 #3. Ask the user for the type of business.
 
-business_type = input('What is or was the name of your pet?\n')
+business_type = input('What is or was the type of your new business?\n')
 
 #4. Combine the name of their grannyy and business type and show them their new business name.
 
